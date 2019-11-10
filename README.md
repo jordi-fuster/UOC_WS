@@ -1,0 +1,7 @@
+# UOC_WS
+Pràctica de Web Scraping
+
+
+COMPONENTS: 
+- JORDI FUSTER (JFUSTER0)
+- JOAN RIBERA (JRIBERA)
