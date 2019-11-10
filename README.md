@@ -15,5 +15,5 @@ COMPONENTS:
 ### 6.
 ### 7.
 ### 8.
-### 9.
-### 10.
+### 9. Veure fitxer 'practica_wsp.ipynb
+### 10. Veure fitxer 'result.csv'
