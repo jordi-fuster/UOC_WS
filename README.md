@@ -6,6 +6,11 @@ COMPONENTS:
 - JORDI FUSTER (JFUSTER0)
 - JOAN RIBERA (JRIBERAMO)
 
+FITXERS:
+- Codi Python: 'practica_wsp.ipynb'
+- CSV: 'anuncis_habitatges_andorra.csv'
+- README
+- PDF
 
 ### 1.
 ### 2.
@@ -15,5 +20,5 @@ COMPONENTS:
 ### 6.
 ### 7.
 ### 8.
-### 9. Veure fitxer 'practica_wsp.ipynb
-### 10. Veure fitxer 'result.csv'
+### 9. Veure fitxer 'practica_wsp.ipynb'
+### 10. Veure fitxer 'anuncis_habitatges_andorra.csv'
